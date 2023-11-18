@@ -1,5 +1,6 @@
 ### how to run app
 ```
+docker-compose up -d --build
 pnpm i
 pnpm dev
 ```
