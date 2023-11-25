@@ -40,4 +40,4 @@ npx shadcn-ui@latest add [component name]
 
 > <b>Github Setting</b><br /><a href="https://next-auth.js.org/providers/github">https://next-auth.js.org/providers/github</a><br /><br />
 >
-> <b>Google Setting</b><a href="https://next-auth.js.org/providers/google">https://next-auth.js.org/providers/google</a><br /><br />
+> <b>Google Setting</b><br /><a href="https://next-auth.js.org/providers/google">https://next-auth.js.org/providers/google</a><br /><br />
